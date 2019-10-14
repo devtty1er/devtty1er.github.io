@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>devtty1er</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2019-10-11T22:27:25.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://devtty1er.com/"/>
+  <updated>2019-10-11T22:49:56.000Z</updated>
+  <id>https://devtty1er.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>devtty1er</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>afl-static-mode-part-4</title>
-    <link href="http://yoursite.com/2019/10/11/afl-static-mode-part-4/"/>
-    <id>http://yoursite.com/2019/10/11/afl-static-mode-part-4/</id>
+    <title>Snapshots with afl-static-mode</title>
+    <link href="https://devtty1er.com/2019/10/11/afl-static-mode-part-4/"/>
+    <id>https://devtty1er.com/2019/10/11/afl-static-mode-part-4/</id>
     <published>2019-10-11T22:27:25.000Z</published>
-    <updated>2019-10-11T22:27:25.000Z</updated>
+    <updated>2019-10-11T22:49:56.000Z</updated>
     
     <summary type="html">
     
@@ -32,11 +32,11 @@
   </entry>
   
   <entry>
-    <title>afl-static-mode-part-3</title>
-    <link href="http://yoursite.com/2019/10/11/afl-static-mode-part-3/"/>
-    <id>http://yoursite.com/2019/10/11/afl-static-mode-part-3/</id>
+    <title>Extending afl-static-mode for Windows</title>
+    <link href="https://devtty1er.com/2019/10/11/afl-static-mode-part-3/"/>
+    <id>https://devtty1er.com/2019/10/11/afl-static-mode-part-3/</id>
     <published>2019-10-11T22:27:18.000Z</published>
-    <updated>2019-10-11T22:27:18.000Z</updated>
+    <updated>2019-10-11T22:49:39.000Z</updated>
     
     <summary type="html">
     
@@ -47,39 +47,43 @@
   </entry>
   
   <entry>
-    <title>afl-static-mode-part-2</title>
-    <link href="http://yoursite.com/2019/10/11/afl-static-mode-part-2/"/>
-    <id>http://yoursite.com/2019/10/11/afl-static-mode-part-2/</id>
+    <title>Improving afl-static-mode</title>
+    <link href="https://devtty1er.com/2019/10/11/afl-static-mode-part-2/"/>
+    <id>https://devtty1er.com/2019/10/11/afl-static-mode-part-2/</id>
     <published>2019-10-11T22:26:47.000Z</published>
-    <updated>2019-10-11T22:26:47.000Z</updated>
+    <updated>2019-10-11T22:49:13.000Z</updated>
     
     <summary type="html">
     
     </summary>
     
     
+    
+      <category term="fuzzing" scheme="https://devtty1er.com/tags/fuzzing/"/>
     
   </entry>
   
   <entry>
-    <title>afl-static-mode-part-1</title>
-    <link href="http://yoursite.com/2019/10/11/afl-static-mode-part-1/"/>
-    <id>http://yoursite.com/2019/10/11/afl-static-mode-part-1/</id>
+    <title>Introducing afl-static-mode</title>
+    <link href="https://devtty1er.com/2019/10/11/afl-static-mode-part-1/"/>
+    <id>https://devtty1er.com/2019/10/11/afl-static-mode-part-1/</id>
     <published>2019-10-11T22:26:40.000Z</published>
-    <updated>2019-10-11T22:26:40.000Z</updated>
+    <updated>2019-10-11T22:48:49.000Z</updated>
     
     <summary type="html">
     
     </summary>
     
     
+    
+      <category term="fuzzing" scheme="https://devtty1er.com/tags/fuzzing/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/08/02/hello-world/"/>
-    <id>http://yoursite.com/2019/08/02/hello-world/</id>
+    <link href="https://devtty1er.com/2019/08/02/hello-world/"/>
+    <id>https://devtty1er.com/2019/08/02/hello-world/</id>
     <published>2019-08-02T15:18:40.000Z</published>
     <updated>2019-08-02T15:18:37.000Z</updated>
     
