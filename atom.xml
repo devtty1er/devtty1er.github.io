@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://devtty1er.com/"/>
-  <updated>2019-10-14T16:00:58.000Z</updated>
+  <updated>2019-10-14T16:15:33.000Z</updated>
   <id>https://devtty1er.com/</id>
   
   <author>
@@ -20,86 +20,22 @@
     <title>Hello World</title>
     <link href="https://devtty1er.com/hello-world/"/>
     <id>https://devtty1er.com/hello-world/</id>
-    <published>2019-10-14T16:00:58.000Z</published>
-    <updated>2019-10-14T16:00:58.000Z</updated>
+    <published>2019-10-14T16:15:34.000Z</published>
+    <updated>2019-10-14T16:15:33.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Hello! I’m a reverse engineer, forward engineer, and vulnerability researcher<br>based in the greater Boston area.</p><p>This blog is intended to help me focus on documenting projects<br>at various levels of completion and findings that might also interest the community.</p><p>Contact me at <span style="unicode-bidi:bidi-override;direction:rtl;">moc.re1yttved@tcatnoc</span>.</p><pre class="mermaid">sequenceDiagramObservable->>Subscriber:A;Subscriber->>Observable:B;Observable->>OnSubscribe:C;OnSubscribe->>Subscriber:D;OnSubscribe->>Subscriber:E;OnSubscribe->>Subscriber:F;OnSubscribe->>Subscriber:G;OnSubscribe->>Subscriber:H;</pre><script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.3.1/mermaid.min.js"></script>]]></content>
+    <content type="html"><![CDATA[<p>Hello! I’m a reverse engineer, forward engineer, and vulnerability researcher based in the greater Boston area.</p><p>This blog is intended to help me focus on documenting my work (at various levels of completion) and sharing my thoughts and findings that might interest the community.</p><p>Contact me at <span style="unicode-bidi:bidi-override;direction:rtl;">moc.re1yttved@tcatnoc</span>.</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Hello! I’m a reverse engineer, forward engineer, and vulnerability researcher&lt;br&gt;based in the greater Boston area.&lt;/p&gt;
-&lt;p&gt;This blog is in
+        &lt;p&gt;Hello! I’m a reverse engineer, forward engineer, and vulnerability researcher based in the greater Boston area.&lt;/p&gt;
+&lt;p&gt;This blog is inten
       
     
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>Snapshots with afl-static-mode</title>
-    <link href="https://devtty1er.com/afl-static-mode-part-4/"/>
-    <id>https://devtty1er.com/afl-static-mode-part-4/</id>
-    <published>2019-10-11T22:27:25.000Z</published>
-    <updated>2019-10-11T22:49:56.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Extending afl-static-mode for Windows</title>
-    <link href="https://devtty1er.com/afl-static-mode-part-3/"/>
-    <id>https://devtty1er.com/afl-static-mode-part-3/</id>
-    <published>2019-10-11T22:27:18.000Z</published>
-    <updated>2019-10-11T22:49:39.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Improving afl-static-mode</title>
-    <link href="https://devtty1er.com/afl-static-mode-part-2/"/>
-    <id>https://devtty1er.com/afl-static-mode-part-2/</id>
-    <published>2019-10-11T22:26:47.000Z</published>
-    <updated>2019-10-11T22:49:13.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-      <category term="fuzzing" scheme="https://devtty1er.com/tags/fuzzing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Introducing afl-static-mode</title>
-    <link href="https://devtty1er.com/afl-static-mode-part-1/"/>
-    <id>https://devtty1er.com/afl-static-mode-part-1/</id>
-    <published>2019-10-11T22:26:40.000Z</published>
-    <updated>2019-10-11T22:48:49.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-      <category term="fuzzing" scheme="https://devtty1er.com/tags/fuzzing/"/>
     
   </entry>
   
