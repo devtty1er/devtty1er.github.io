@@ -23,7 +23,7 @@
     <published>2019-10-14T16:00:58.000Z</published>
     <updated>2019-10-14T16:00:58.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Hello! I’m a reverse engineer, forward engineer, and vulnerability researcher<br>based in the greater Boston area.</p><p>This blog is intended to help me focus on documenting projects<br>at various levels of completion and findings that might also interest the community.</p><p>Contact me at <span style="unicode-bidi:bidi-override;direction:rtl;">moc.re1yttved@tcatnoc</span>.</p><pre class="mermaid">sequenceDiagramObservable->>Subscriber:A;Subscriber->>Observable:B;Observable->>OnSubscribe:C;OnSubscribe->>Subscriber:D;OnSubscribe->>Subscriber:E;OnSubscribe->>Subscriber:F;OnSubscribe->>Subscriber:G;OnSubscribe->>Subscriber:H;</pre><script src="https://cdn.bootcss.com/mermaid/7.1.2/mermaid.js"></script>]]></content>
+    <content type="html"><![CDATA[<p>Hello! I’m a reverse engineer, forward engineer, and vulnerability researcher<br>based in the greater Boston area.</p><p>This blog is intended to help me focus on documenting projects<br>at various levels of completion and findings that might also interest the community.</p><p>Contact me at <span style="unicode-bidi:bidi-override;direction:rtl;">moc.re1yttved@tcatnoc</span>.</p><pre class="mermaid">sequenceDiagramObservable->>Subscriber:A;Subscriber->>Observable:B;Observable->>OnSubscribe:C;OnSubscribe->>Subscriber:D;OnSubscribe->>Subscriber:E;OnSubscribe->>Subscriber:F;OnSubscribe->>Subscriber:G;OnSubscribe->>Subscriber:H;</pre><script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.3.1/mermaid.min.js"></script>]]></content>
     
     <summary type="html">
     
