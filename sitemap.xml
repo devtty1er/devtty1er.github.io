@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://devtty1er.com/2019/10/14/hello-world/</loc>
+    
+    <lastmod>2019-10-14T15:17:19.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://devtty1er.com/2019/10/11/afl-static-mode-part-4/</loc>
     
     <lastmod>2019-10-11T22:49:56.000Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://devtty1er.com/about/index.html</loc>
     
     <lastmod>2019-10-11T22:26:18.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://devtty1er.com/2019/08/02/hello-world/</loc>
-    
-    <lastmod>2019-08-02T15:18:37.000Z</lastmod>
     
   </url>
   
